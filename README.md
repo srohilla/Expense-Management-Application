@@ -37,4 +37,16 @@ Response Body :
     "decision_date" : ""
 }
 
-## Database : MySQL image pulled from Docker hub
+### Database : MySQL image pulled from Docker hub
+
+### How to run the Application :
+
+** Open Docker Quickstart terminal
+
+** Start the db by the command Make startDB
+
+** Build the application by Make build
+
+** Run the application by Make run
+
+
