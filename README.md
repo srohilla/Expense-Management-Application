@@ -36,4 +36,5 @@ Response Body :
     "status" : "pending",
     "decision_date" : ""
 }
- 
+
+## Database : MySQL image pulled from Docker hub
