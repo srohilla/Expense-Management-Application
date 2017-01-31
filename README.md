@@ -7,7 +7,7 @@ A simple application created in python flask
 ### Base URL : http://localhost:5000
 
 POST /v1/expenses
-Request Body
+Request Body :
 
 {
     "name" : "Foo Bar",
@@ -18,10 +18,9 @@ Request Body
     "estimated_costs" : "700",
     "submit_date" : "09-08-2016"
 }
-Response Header
 
-201 Created
-Response Body
+Response Header : 201 Created
+Response Body :
 
 {
     "id" : "123456",
